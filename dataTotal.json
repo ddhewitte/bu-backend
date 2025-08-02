@@ -1,0 +1,9 @@
+{
+  "totalDeposit": {
+    "amount": 500000,
+    "count": 1
+  },
+  "totalRegistration": {
+    "count": 10
+  }
+}
